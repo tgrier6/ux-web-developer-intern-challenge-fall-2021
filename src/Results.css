@@ -1,0 +1,11 @@
+.results {
+  width: 50%;
+  height: 75px;
+  border-width: 1px;
+  border-color: #000;
+  border-style: solid;
+  box-sizing: border-box;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  float: right;
+}
